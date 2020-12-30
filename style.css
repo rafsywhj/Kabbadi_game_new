@@ -1,0 +1,17 @@
+html, body {
+    background-image:url("assests/bg2.jpg");
+    background-position: 100%;
+    
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    
+    margin-left: 30%;
+    margin-right: 25%;
+    margin-top: 50px;
+    margin-bottom:10px;
+    border: 2px solid black;
+  }
+  
+  
